@@ -4,16 +4,11 @@ A human-in-the-loop SOC alert triage platform for authorized lab data only. This
 
 ## Demo
 
-<img src="assets/Screen%20Recording%202026-09-21%20at%204.10.31%20PM.gif"
-     alt="Sentinel Triage Demo"
-     width="1000">
+![Sentinel Triage Demo](assets/demo.gif)
 
 ## Dashboard
 
-<img src="assets/Screenshot%202026-09-21%20at%202.45.09%20AM.png"
-     alt="Sentinel Triage Dashboard"
-     width="1000">
-
+![Sentinel Triage Dashboard](assets/dashboard.png)
 
 ## Safety constraints
 
